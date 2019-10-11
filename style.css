@@ -1,0 +1,17 @@
+body{
+    font-family:'Courier New', Courier, monospace;
+    background-color: lightgreen;
+}
+
+h2{
+    background-color:darkgreen;
+    color:white;
+    margin:0px
+
+}
+table td{
+    padding:7px;
+}
+input{
+    height:20px;
+}
